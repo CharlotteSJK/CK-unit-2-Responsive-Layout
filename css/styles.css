@@ -191,7 +191,7 @@ a:hover {
 
 /* ---- Min-width 768px ---- */
 
-@media (min-width: 768px){
+@media (min-width: 768px) {
 
   .main-nav p {
     margin-left: 3.5em;
@@ -382,7 +382,6 @@ a:hover {
 		clear: both;
   }
 }
-
 
   /* ---- Float clearfix ---- */
   
